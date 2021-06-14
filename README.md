@@ -1,5 +1,10 @@
 # Workshop Name
-[description]
+Do you work with data in spreadsheets? This [JHU Data Services](https://dataservices.library.jhu.edu/) workshop will teach you how to clean and standardize your tabular data efficiently and reproducibly using OpenRefine. OpenRefine is a free, open-source tool with a graphical user interface (GUI) to clean and organize data – no coding required! The bulk of this 2.5-hour workshop will be a hands-on tutorial cleaning a dataset in OpenRefine.   
+
+After taking this workshop, participants will:    
+- Understand the common features of messy datasets
+- Be able to carry out several transformations in OpenRefine to clean and standardize data for further analysis
+- Leave with a test project that can be used to practice further data analysis or learn advanced features of OpenRefine, such as working with APIs
 
 
 ## JHU Data Services   
@@ -13,21 +18,19 @@ As of March 2020, Data Services workshops are being held virtually on Zoom. [See
 
 
 ## Pre-Class Instructions
-Before the class, follow the [installation instructions to download all required software and tools for this workshop](link-to-github-installation-repo).
+Before the class, be sure to [download OpenRefine from their website](https://openrefine.org/download.html). You will use OpenRefine in a web browser; we recommend [Google Chrome](https://www.google.com/chrome/) or [Microsoft Edge](https://www.microsoft.com/en-us/edge).
 
 
 ## Description of Files
 - Data: This folder contains raw data files to be used during hands-on activities in the workshop
-- In-ClassScripts: This folder contains code files you will need for the workshop:
-    - [file1]
-    - [file2]
-    - [file3]
+- In-ClassScripts: This folder contains files you will need for the workshop:
+    - OpenRefine_WorkshopGuide.docx
 - PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop
 - Resources: This folder contains cheatsheets to assist you during the workshop and links to external sources for you to continue your learning
 
 
 ## Post-Class Survey
-If you have taken the live webinar for this class, please take this survey: [link name](url)
+If you have taken the live webinar for this class, please take this survey: [https://www.surveymonkey.com/r/openrefine](https://www.surveymonkey.com/r/openrefine)
 
 
 ## License and Terms of Use
@@ -40,4 +43,4 @@ The images and external resources linked in this repository may have other licen
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. [Date of workshop]. [Workshop title].  
+Johns Hopkins University Data Services. [Date of workshop]. Data Cleaning in OpenRefine.  
