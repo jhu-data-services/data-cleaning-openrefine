@@ -23,7 +23,7 @@ Before the class, be sure to [download OpenRefine from their website](https://op
 
 ## Description of Files
 - Data: This folder contains raw data files to be used during hands-on activities in the workshop
-- In-ClassScripts: This folder contains files you will need for the workshop:
+- In-ClassScripts: This folder contains additional files you will need for the workshop:
     - OpenRefine_WorkshopGuide.docx
 - PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop
 - Resources: This folder contains cheatsheets to assist you during the workshop and links to external sources for you to continue your learning
@@ -34,11 +34,11 @@ If you have taken the live webinar for this class, please take this survey: [htt
 
 
 ## License and Terms of Use
-The presentation materials are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) and may be shared for non-commercial purposes with proper attribution to the author.   
+The materials created by JHU Data Services are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) and may be shared for non-commercial purposes with proper attribution to the author.   
 
 See LICENSE file for code licensing and re-use information.   
 
-The images and external resources linked in this repository may have other licenses and terms of use.
+The images, external resources, and cheat sheets shared in this repository may have other licenses and terms of use.
 
 
 ## Citation
