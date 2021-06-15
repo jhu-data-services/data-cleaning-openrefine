@@ -1,4 +1,4 @@
-# Workshop Name
+# Data Cleaning in OpenRefine
 Do you work with data in spreadsheets? This [JHU Data Services](https://dataservices.library.jhu.edu/) workshop will teach you how to clean and standardize your tabular data efficiently and reproducibly using OpenRefine. OpenRefine is a free, open-source tool with a graphical user interface (GUI) to clean and organize data – no coding required! The bulk of this 2.5-hour workshop will be a hands-on tutorial cleaning a dataset in OpenRefine.   
 
 After taking this workshop, participants will:    
