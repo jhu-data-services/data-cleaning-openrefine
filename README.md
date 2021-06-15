@@ -43,4 +43,4 @@ The images, external resources, and cheat sheets shared in this repository may h
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. [Date of workshop]. Data Cleaning in OpenRefine.  
+Johns Hopkins University Data Services. [Date of workshop]. Data Cleaning in OpenRefine. [https://github.com/jhu-data-services/data-cleaning-openrefine](https://github.com/jhu-data-services/data-cleaning-openrefine)
