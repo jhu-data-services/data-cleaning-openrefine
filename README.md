@@ -34,7 +34,7 @@ If you have taken the live webinar for this class, please take this survey: [htt
 
 
 ## License and Terms of Use
-The materials created by JHU Data Services are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) and may be shared for non-commercial purposes with proper attribution to the author.   
+The presentation materials are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/), attributable to [Data Services](https://dataservices.library.jhu.edu/), Johns Hopkins University.
 
 See LICENSE file for code licensing and re-use information.   
 
