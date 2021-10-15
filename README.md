@@ -22,7 +22,8 @@ Before the class, be sure to [download OpenRefine from their website](https://op
 
 
 ## Description of Files
-- Data: This folder contains raw data files to be used during hands-on activities in the workshop
+- Data: This folder contains raw data files to be used during hands-on activities in the workshop:
+    - workshop_data_nuforc.csv: user-entered data about UFO sightings, from the National UFO Reporting Center (NUFORC), [nuforc.org](http://nuforc.org/)
 - In-ClassScripts: This folder contains additional files you will need for the workshop:
     - OpenRefine_WorkshopGuide.docx
 - PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop
